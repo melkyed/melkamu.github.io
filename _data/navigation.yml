@@ -1,0 +1,5 @@
+main:
+  - title: "About"
+    url: /
+  - title: "Resume / CV"
+    url: /cv/
